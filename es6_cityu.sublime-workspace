@@ -1,0 +1,735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fire",
+				"firebaseRef"
+			],
+			[
+				"freq",
+				"freqData"
+			],
+			[
+				"get",
+				"getInteger"
+			],
+			[
+				"Ap",
+				"APP_DIR"
+			],
+			[
+				"A",
+				"APP_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.js",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/test.js",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/user_display.js",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/SearchableTable.js",
+			"settings":
+			{
+				"buffer_size": 1886,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/data.js",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/index.php",
+			"settings":
+			{
+				"buffer_size": 9466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/js/index.js",
+			"settings":
+			{
+				"buffer_size": 1153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/components/signInModalDialog.html",
+			"settings":
+			{
+				"buffer_size": 1189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/js/core.js",
+			"settings":
+			{
+				"buffer_size": 1425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/js/component.js",
+			"settings":
+			{
+				"buffer_size": 7428,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/components/contentDefault.html",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"react",
+				"Set Syntax: React Templates"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Mira_dokumenty/Programování/es6_cityu/.gitignore",
+		"/D/Mira_dokumenty/Programování/HKG_guide/webpack.development.config.js",
+		"/D/Mira_dokumenty/Programování/HKG_guide/index.html",
+		"/D/Mira_dokumenty/Programování/HKG_guide/src/js/App.js",
+		"/D/Mira_dokumenty/Programování/HKG_guide/src/js/Main.jsx",
+		"/D/Mira_dokumenty/Programování/HKG_guide/src/js/BaseComponent.jsx",
+		"/D/Mira_dokumenty/Programování/HKG_guide/package.json",
+		"/D/Mira_dokumenty/Programování/university_navigate/src/js/Parent.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/src/js/Child.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/src/js/App.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/index.html",
+		"/D/Mira_dokumenty/Programování/university_navigate/gulpfile.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/src/js/app.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/dist/build/app.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/src/js/face_module.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/package.json",
+		"/D/Mira_dokumenty/Programování/university_navigate/src/app.js",
+		"/D/Mira_dokumenty/Programování/university_navigate/.eslintrc",
+		"/D/Mira_dokumenty/Programování/HKG_guide/README.md",
+		"/D/Mira_dokumenty/Programování/React/tyler/dist/index.html",
+		"/D/Mira_dokumenty/Programování/React/tyler/src/index.html",
+		"/D/Mira_dokumenty/Programování/HKG_guide/src/js/Main.js",
+		"/D/Mira_dokumenty/Programování/HKG_guide/webpack.config.js",
+		"/D/Mira_dokumenty/Programování/HKG_guide/.gitignore",
+		"/C/Users/Mira/Downloads/apso-android-ctecky/son_ctecky_mtz_test/src/main/res/layout/fragment_customer_invoices.xml",
+		"/C/Users/Mira/Downloads/apso-android-ctecky/son_ctecky_mtz_test/src/main/res/layout/customer_claims.xml",
+		"/D/Mira_dokumenty/DP_zaloha/JS_app/Hausy/src/js/App.js",
+		"/D/Mira_dokumenty/DP_zaloha/JS_app/README.md",
+		"/D/Mira_dokumenty/Programování/stepa_web/index.html",
+		"/C/Apps/wildfly-8.2.0.Final/standalone/configuration/standalone.xml",
+		"/C/Apps/wildfly-8.2.0.Final/standalone/configuration/standalone-full.xml",
+		"/D/Mira_dokumenty/DP_zaloha/wildfly-8.2.0.Final/standalone/configuration/standalone-full.xml",
+		"/D/Mira_dokumenty/DP_zaloha/wildfly-8.2.0.Final/standalone/configuration/standalone.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app.js",
+			"mysql-connector-java-5.1.36",
+			"driver",
+			"smarthome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/user_display.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/SearchableTable.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/data.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2724,
+								2726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/components/signInModalDialog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1146,
+								1066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/js/core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/js/component.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7049,
+								7049
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2572.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Mira/Downloads/UniversityNavigate-master/components/contentDefault.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.669838945827,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "es6_cityu.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

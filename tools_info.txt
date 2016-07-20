@@ -1,0 +1,24 @@
+BROWSERIFY
+-import/export komponent pro pouziti v jinych komponentach
+
+GULP
+-buildovaci nastroj
+-provazuje rutiny, umoznuje vytvoreni watchdogu nad soubory
+
+NODEJS
+-behove prostredi pro JS
+-V8 engine
+
+NPM
+-package manager
+-spravuje a instaluje balicky
+
+VINYL-SOURCE-STREAM
+-prevadi readable stream z browserify na vinyl stream
+-diky tomu Gulp nemusi vytvaret docasne soubory
+
+GULP-UTIL
+-umoznuje logovani
+
+BABELIFY
+-prevadi ES6 do ES5
