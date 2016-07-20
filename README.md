@@ -1,12 +1,4 @@
-## es6-react-boilerplate
+ES6_CityU
+===================
 
-To use, first download the repository,then do 
-
-<code>$ npm install</code> 
-
-on your terminal.
-After that, either navigate to the file in your browser, or start a http server like this
-
-<code> $ python -m SimpleHTTPServer 3000</code> 
-
-and go to localhost:3000 to see the project.
+Web application written in Javascript framework - **React**.
