@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Test from './test';
+var React = require('react');
+var ReactDOM = require('react-dom');
+var routes = require('./config/routes');
 
-ReactDOM.render(<Test />, document.getElementById('app_content') );
+ReactDOM.render(routes , document.getElementById('app'));
